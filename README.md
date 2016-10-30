@@ -7,7 +7,6 @@ Original SRC:
 https://github.com/mschwarzmueller/nodejs-shopping-cart-tutorial
 
 
-
 <br/>
 <br/>
 
@@ -33,7 +32,6 @@ I'm working on Ubuntu in docker container with debian jessie:
 
 <br/>
 
-
     # node -v
     v6.8.1
 
@@ -41,6 +39,23 @@ I'm working on Ubuntu in docker container with debian jessie:
     3.10.8
 
 <hr/>
+
+<br/>
+
+### 01 Intro & Setup
+
+    # npm install -g nodemon
+    # npm install -g express-generator
+    $ su - developer
+    $ cd /project/
+    $ express . --hbs
+    $ npm install
+    $ nodemon
+
+http://localhost:3000/
+
+
+ 
 
 <br/>
 <br/>
