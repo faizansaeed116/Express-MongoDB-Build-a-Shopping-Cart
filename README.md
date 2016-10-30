@@ -55,7 +55,15 @@ I'm working on Ubuntu in docker container with debian jessie:
 http://localhost:3000/
 
 
- 
+<br/>
+
+### 02 Product Index View
+
+    $ npm install --save express-handlebars
+
+
+![Application](/img/video-02-pic-01.png?raw=true)
+
 
 <br/>
 <br/>
