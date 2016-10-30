@@ -66,6 +66,21 @@ http://localhost:3000/
 
 
 <br/>
+
+### 03 MongoDB Mongoose Setup
+
+    # apt-get install -y mongodb
+
+<br/>
+
+    # mkdir -p /data/db/
+    # mongod
+
+<br/>
+
+    $ npm install --save mongoose
+
+<br/>
 <br/>
 
 ___
