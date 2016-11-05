@@ -80,6 +80,18 @@ http://localhost:3000/
 
     $ npm install --save mongoose
 
+
+<br/>
+
+### 04 Seeding Data
+
+    $ node seed/product-seeder.js
+    $ mongo
+
+    use shopping
+    db.products.find()
+
+
 <br/>
 <br/>
 
