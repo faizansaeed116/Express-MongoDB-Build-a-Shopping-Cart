@@ -1,10 +1,7 @@
 # [Mindspace, Youtube] NodeJS / Express / MongoDB - Build a Shopping Cart [ENG, 2016]
 
-Video:  
+Videos:  
 https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2
-
-Original SRC:  
-https://github.com/mschwarzmueller/nodejs-shopping-cart-tutorial
 
 
 <br/>
@@ -90,6 +87,13 @@ http://localhost:3000/
 
     use shopping
     db.products.find()
+
+<br/>
+
+### 05 Outputting Data
+
+![Application](/img/video-05-pic-01.png?raw=true)
+
 
 
 <br/>
