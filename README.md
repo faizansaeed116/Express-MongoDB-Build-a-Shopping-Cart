@@ -95,6 +95,19 @@ http://localhost:3000/
 ![Application](/img/video-05-pic-01.png?raw=true)
 
 
+<br/>
+
+### 06 Sign Up View, CSRF Protection & User Model
+
+    $ npm install --save csurf
+    $ npm install --save express-session
+
+    http://localhost:3000/user/signup
+
+<br/>
+
+![Application](/img/video-06-pic-01.png?raw=true)
+
 
 <br/>
 <br/>

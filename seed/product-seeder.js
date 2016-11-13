@@ -13,7 +13,7 @@ var products = [
     }),
     new Product({
         imagePath: 'https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg',
-        title: 'StarCraft_II Video Game',
+        title: 'StarCraft II Video Game',
         description: 'StarCraft II: Wings of Liberty is a military science fiction real-time strategy video game developed and published by Blizzard Entertainment.',
         price: 20
     }),
