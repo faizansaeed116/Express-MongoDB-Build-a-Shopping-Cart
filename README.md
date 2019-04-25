@@ -1,8 +1,10 @@
-# [Mindspace, Youtube] NodeJS / Express / MongoDB - Build a Shopping Cart [ENG, 2016]
+# [Academind, Youtube] NodeJS / Express / MongoDB - Build a Shopping Cart [ENG, 2016]
 
 Videos:  
 https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2
 
+Original src:  
+https://github.com/mschwarzmueller/nodejs-shopping-cart-tutorial
 
 <br/>
 <br/>
@@ -112,11 +114,10 @@ http://localhost:3000/
 <br/>
 <br/>
 
+I did not finish this course!
+
 ___
 
 **Marley**
 
 <a href="https://jsdev.org">jsdev.org</a>
-
-email:  
-![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
